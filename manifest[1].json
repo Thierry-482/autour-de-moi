@@ -1,0 +1,10 @@
+
+{
+  "name": "Autour de Moi",
+  "short_name": "AutourMoi",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Voir les savoir-faire et entraides proches de vous.",
+  "icons": []
+}
